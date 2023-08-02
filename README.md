@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saicherish90@gmail.com**
 
-- 📄 Know about my experiences [<a href="https://linkedin.com/in/https://www.linkedin.com/in/siva-sai-cherish-94688b236/" target="blank">Resume</a>](https://drive.google.com/file/d/1FHtn4YZsndUHPqp-MnKSN5tUYOu-GL4j/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FHtn4YZsndUHPqp-MnKSN5tUYOu-GL4j/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
