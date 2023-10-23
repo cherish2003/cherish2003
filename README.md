@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherish2003&show_icons=true&locale=en" alt="cherish2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherish2003&" alt="cherish2003" /></p>
-[![An image of @cherish2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cherish2003)](https://holopin.io/@cherish2003)
+<p><img align="left" src="https://holopin.me/cherish2003" alt="cherish2003" /></p>
