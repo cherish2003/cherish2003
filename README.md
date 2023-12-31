@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cherish</h1>
-<h3 align="center">A passionate React developer</h3>
-
-- 🔭 I’m currently working on **React Projects and Open source**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **React and front end**
-
-- 📫 How to reach me **saicherish90@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FHtn4YZsndUHPqp-MnKSN5tUYOu-GL4j/view?usp=drive_link)
-
+<h3 align="center">Just a curious human</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/siva-sai-cherish-94688b236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siva-sai-cherish-94688b236/" height="30" width="40" /></a>
