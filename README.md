@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Cherish</h1>
-<h3 align="center">Just a curious human</h3>
+Hi 👋, I'm Cherish
+Just a curious human
+Who loves to build cool stuff and contribute to open source ❤️
 
 
 <h3 align="left">Languages and Tools:</h3>
