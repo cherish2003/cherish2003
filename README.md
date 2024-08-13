@@ -4,8 +4,9 @@ Just a curious human
 <br></br>
 Who loves to build cool stuff and contribute to open source ❤️
 
-<a href="mailto:saicherish90@gmail.com">Mail</a>
-<a href="linkedin.com/in/siva-sai-cherish-94688b236/">Linkedin</a>
+<a href="mailto:saicherish90@gmail.com"> Mail </a> |
+<a href="linkedin.com/in/siva-sai-cherish-94688b236/">Linkedin</a> | 
+<a href="https://x.com/Cherishhere"> Twitter </a>
 
 
 
